@@ -75,6 +75,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="apk_demo\app-production-release.apk" />
     <None Include="packages.config" />
   </ItemGroup>
   <Choose>
