@@ -8,7 +8,7 @@ Requirements:
 
 -Appium For Windows 
 
--A Real Android Device running Android 4.2 or Above (with Skina App APK installed included on solution)
+-A Real Android Device running Android 4.2 or Above (with demo APK installed included on solution)
 
 -A USB Cable to attach your Android Phone to Your PC.
 
