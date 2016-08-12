@@ -56,7 +56,7 @@ namespace UnitTestProject1
         //    Assert.AreEqual("6", results.Text);
         //}
 
-        public void SkinaBasic()
+        public void SearchProduct()
         {            
             var opcaoBuscar = driver.FindElement(By.Name("Buscar"));
             opcaoBuscar.Click();
